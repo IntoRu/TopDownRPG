@@ -5,7 +5,7 @@ aim_dir = 0
 bow_dis = 11 // расстояния от игрока до оружия
 
 // создаём оружик
-my_bow = instance_create_layer(x,y,"Instances",oBow)
+my_bow = instance_create_layer(x,y,"Instances",oSword)
 
 // меняем курсор
 cursor_sprite = sCursor
