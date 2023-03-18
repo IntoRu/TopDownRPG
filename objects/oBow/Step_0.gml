@@ -1,0 +1,1 @@
+image_angle = oPlayer.aim_dir

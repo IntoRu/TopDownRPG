@@ -38,7 +38,7 @@ function calc_movement(){
 	
 	// направление
 	aim_dir = point_direction(x,y,mouse_x,mouse_y)
-	my_bow.image_angle = aim_dir
+	//my_bow.image_angle = aim_dir
 	
 	
 }
