@@ -1,1 +1,1 @@
-hp --
+if oSword.isAttack  hp --
