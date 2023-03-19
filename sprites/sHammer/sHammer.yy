@@ -1,8 +1,8 @@
 {
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
-  "name": "sSword",
-  "bbox_bottom": 29,
+  "name": "sHammer",
+  "bbox_bottom": 36,
   "bbox_left": 0,
   "bbox_right": 9,
   "bbox_top": 0,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"beb0d948-088b-4d3f-8044-b40a8555594b",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"094e6789-f151-4831-95ad-13f548ef67bb",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 30,
+  "height": 37,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"d15e07ae-f2a4-497e-96a6-a463b658b9d0","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"0430cb03-46a0-402c-8437-a15d50a45d64","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 9,
@@ -32,7 +32,7 @@
   "sequence": {
     "resourceType": "GMSequence",
     "resourceVersion": "1.4",
-    "name": "sSword",
+    "name": "sHammer",
     "autoRecord": true,
     "backdropHeight": 768,
     "backdropImageOpacity": 0.5,
@@ -54,13 +54,13 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"beb0d948-088b-4d3f-8044-b40a8555594b","path":"sprites/sSword/sSword.yy",},},},"Disabled":false,"id":"3dd00399-f16d-4947-bc91-96714ac8470e","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"094e6789-f151-4831-95ad-13f548ef67bb","path":"sprites/sHammer/sHammer.yy",},},},"Disabled":false,"id":"4e85b188-e2f9-4d17-b766-a59f1df56ed9","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
     "volume": 1.0,
     "xorigin": 5,
-    "yorigin": 25,
+    "yorigin": 30,
   },
   "swatchColours": null,
   "swfPrecision": 2.525,

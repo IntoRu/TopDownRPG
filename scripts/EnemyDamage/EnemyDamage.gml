@@ -1,4 +1,4 @@
 
 function EnemyDamage(){
-	if oSword.isAttack  hp --
+	if global.weapon[global.item].isAttack  hp -= global.damage[global.item]
 }

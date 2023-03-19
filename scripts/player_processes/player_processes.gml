@@ -21,9 +21,7 @@ function calc_movement(){
 	hmove = right - left
 	vmove = down - up
 	
-	//if hmove != 0 facing = hmove
-	
-	var _facing = aim_dir < 90 or aim_dir > 270
+	var _facing = global.aimDir < 90 or global.aimDir > 270
 	if _facing == 0 _facing = -1
 	facing = _facing
 	
@@ -37,9 +35,7 @@ function calc_movement(){
 	}
 	
 	// направление
-	aim_dir = point_direction(x,y,mouse_x,mouse_y)
-	//my_bow.image_angle = aim_dir
-	
+	global.aimDir = point_direction(x,y,mouse_x,mouse_y)
 	
 }
 
@@ -61,6 +57,7 @@ function collision(){
 	}
 }
 
+// анимация
 function anim(){
 	if hmove != 0 or vmove != 0 {
 		sprite_index = sPlayerWalk

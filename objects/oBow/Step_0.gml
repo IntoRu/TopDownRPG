@@ -1,1 +1,2 @@
-image_angle = oPlayer.aim_dir
+isAttack = false
+image_angle = global.aimDir
