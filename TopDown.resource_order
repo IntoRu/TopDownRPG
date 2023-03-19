@@ -8,6 +8,7 @@
     {"name":"sPlayerWalk","order":5,"path":"sprites/sPlayerWalk/sPlayerWalk.yy",},
     {"name":"sBow","order":6,"path":"sprites/sBow/sBow.yy",},
     {"name":"player_processes","order":9,"path":"scripts/player_processes/player_processes.yy",},
+    {"name":"EnemyDamage","order":2,"path":"scripts/EnemyDamage/EnemyDamage.yy",},
     {"name":"oBow","order":1,"path":"objects/oBow/oBow.yy",},
     {"name":"oEnemy","order":1,"path":"objects/oEnemy/oEnemy.yy",},
     {"name":"oSword","order":2,"path":"objects/oSword/oSword.yy",},

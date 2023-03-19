@@ -1,1 +1,4 @@
-if oSword.isAttack  hp --
+
+EnemyDamage()
+	
+
