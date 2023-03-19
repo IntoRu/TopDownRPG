@@ -2,8 +2,8 @@
   "FolderOrderSettings": [
     {"name":"Enemy","order":4,"path":"folders/Enemy.yy",},
     {"name":"Enviroment","order":3,"path":"folders/Enviroment.yy",},
-    {"name":"Player","order":1,"path":"folders/Player.yy",},
     {"name":"Game","order":5,"path":"folders/Game.yy",},
+    {"name":"Player","order":1,"path":"folders/Player.yy",},
     {"name":"Weapon","order":6,"path":"folders/Weapon.yy",},
   ],
   "ResourceOrderSettings": [
