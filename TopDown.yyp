@@ -11,10 +11,10 @@
   },
   "defaultScriptType": 1,
   "Folders": [
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Enemy","folderPath":"folders/Enemy.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Enviroment","folderPath":"folders/Enviroment.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Player","folderPath":"folders/Player.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Rooms","folderPath":"folders/Rooms.yy",},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Enemy","folderPath":"folders/Enemy.yy",},
   ],
   "IncludedFiles": [],
   "isEcma": false,

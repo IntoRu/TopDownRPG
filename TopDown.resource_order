@@ -1,8 +1,8 @@
 {
   "FolderOrderSettings": [
+    {"name":"Enemy","order":4,"path":"folders/Enemy.yy",},
     {"name":"Enviroment","order":3,"path":"folders/Enviroment.yy",},
     {"name":"Player","order":1,"path":"folders/Player.yy",},
-    {"name":"Enemy","order":4,"path":"folders/Enemy.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"sPlayerWalk","order":5,"path":"sprites/sPlayerWalk/sPlayerWalk.yy",},
